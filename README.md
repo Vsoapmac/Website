@@ -1,15 +1,15 @@
 ### 办公端环境说明
 改端为ThinkPad办公本，配置属中低级，运行卡顿
 
-java-1.8，
-maven-3.6.3，
-tomcat-8.5.8
-elasticsearch-7.8.0，
-kibana-7.8.0，
-node-0.1.31，
-npm-1.4.23，
-git，
-VueCLI-3.0
+- java-1.8，
+- maven-3.6.3，
+- tomcat-8.5.8
+- elasticsearch-7.8.0，
+- kibana-7.8.0，
+- node-0.1.31，
+- npm-1.4.23，
+- git，
+- VueCLI-3.0
 
 ### 本端环境说明
 该端为炫龙游戏本，配置属中级，运行流畅
