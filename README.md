@@ -10,6 +10,8 @@
 - npm-6.14.6，
 - VueCLI-3.0
 - mysql
+- jmeter-5.3
+- postman
 
 ### 开发环境
 eclipse-2018,HbuilderX
