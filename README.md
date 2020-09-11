@@ -6,10 +6,10 @@
 - tomcat-8.5.8
 - elasticsearch-7.8.0，
 - kibana-7.8.0，
-- node-0.1.31，
-- npm-1.4.23，
-- git，
+- node-12.18，
+- npm-6.14.6，
 - VueCLI-3.0
+- mysql
 
 ### 本端环境说明
 该端为炫龙游戏本，配置属中级，运行流畅
